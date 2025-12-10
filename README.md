@@ -31,4 +31,6 @@
 > 最新版本：[TraderTRner 最新版本](https://github.com/BB-Software-Corporation/TraderTRner/releases/latest)
 >
 
-如果想要一起开发的话，请联系：bbcorp-c-2025-@outlook.com
+## 合作
+如果想要一起开发的话，请联系：bbcorp-c-2025-@outlook.com，或者加入telegram 频道来联系：https://t.me/+u4x7Jyxu_xE4NTdl
+注意，我们统一时间是北京时间。
