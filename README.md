@@ -30,3 +30,5 @@
 >
 > 最新版本：[TraderTRner 最新版本](https://github.com/BB-Software-Corporation/TraderTRner/releases/latest)
 >
+
+如果想要一起开发的话，请联系：bbcorp-c-2025-@outlook.com
