@@ -32,5 +32,5 @@
 >
 
 ## 合作
-如果想要一起开发的话，请联系：bbcorp-c-2025-@outlook.com，或者加入telegram 频道来联系：[BB Corporation 软件组](https://t.me/+u4x7Jyxu_xE4NTdl)
+如果想要一起开发的话，请联系：bbcorp-c-2025-@outlook.com，或者加入[GitHub 组织](https://github.com/BB-Development-Organization/)来协助开发
 注意，我们统一时间是北京时间。
