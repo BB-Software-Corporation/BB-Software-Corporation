@@ -34,3 +34,7 @@
 ## 合作
 如果想要一起开发的话，请联系：bbcorp-c-2025-@outlook.com，或者加入[GitHub 组织](https://github.com/BB-Development-Organization/)来协助开发
 注意，我们统一时间是北京时间。
+
+## 其他
+r如果对我们的开发过程感兴趣的话请看：
+* 我们的[YouTube 频道](https://www.youtube.com/channel/UCTvCdFtp9lBwZCCw6qVimiw)
