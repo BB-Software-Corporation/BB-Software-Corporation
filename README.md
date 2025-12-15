@@ -11,7 +11,7 @@
 >
 > 最新版本：[ZNP Pro 最新版本](https://github.com/BB-Software-Corporation/ZNSO-Notepad-Pro/releases/latest)
 >
-### ZNSO TradeTrainer （不收支持，转移到了[TraderTRner](https://github.com/BB-Software-Corporation/TraderTRner)）
+### ZNSO TradeTrainer （不受支持，转移到了[TraderTRner](https://github.com/BB-Software-Corporation/TraderTRner)）
 > 应用描述：ZNSO TradeTrainer，简称ZTT。这是一个模拟交易的应用，简单模拟创建本地账号，通过这样来区分交易
 >
 > 官方地址：[ZTT 下载官网](https://github.com/BB-Software-Corporation/ZNSOTradeTrainer)
