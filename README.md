@@ -1,6 +1,5 @@
 # 各位大家们欢迎光临**小宝宝软件公司**
 ---
-这里的软件**都是以ZNSO开头**的，因为小宝宝软件公司以前的名称是**ZNSO Corporation**!
 以下是我们制作出来的软件：
 ### ZNSO Notepad Pro
 > 应用描述：ZNSO Notepad Pro，简称ZNP Pro。这是一个专业的笔记。
@@ -31,9 +30,14 @@
 > 最新版本：[TraderTRner 最新版本](https://github.com/BB-Software-Corporation/TraderTRner/releases/latest)
 >
 
-## 合作
+# 合作
 如果想要一起开发的话，请联系：bbcorp-c-2025-@outlook.com，或者加入[GitHub 组织](https://github.com/BB-Development-Organization/)来协助开发
 注意，我们统一时间是北京时间。
+# 加入注资后可获得最新当前项目！
+* 加入组织后可以查看并编辑最新项目
+* 当前最新项目：B**BEngine，一个基于Raylib_cs 的 2D 游戏引擎**
+* 当前状态
+* > 正在开发关卡渲染
 
 ## 其他
 r如果对我们的开发过程感兴趣的话请看：
