@@ -1,6 +1,6 @@
 # 各位大家们欢迎光临**小宝宝软件公司**
 
-## [跳转至组织最新动态]([https://github.com/BB-Software-Corporation/BB-Software-Corporation/blob/main/README.md#%E5%8A%A0%E5%85%A5%E6%B3%A8%E8%B5%84%E5%90%8E%E5%8F%AF%E8%8E%B7%E5%BE%97%E6%9C%80%E6%96%B0%E5%BD%93%E5%89%8D%E9%A1%B9%E7%9B%AE](https://github.com/BB-Software-Corporation/BB-Software-Corporation/tree/main#%E5%90%88%E4%BD%9C))
+## [跳转至组织最新动态][https://github.com/BB-Software-Corporation/BB-Software-Corporation/blob/main/README.md#%E5%8A%A0%E5%85%A5%E6%B3%A8%E8%B5%84%E5%90%8E%E5%8F%AF%E8%8E%B7%E5%BE%97%E6%9C%80%E6%96%B0%E5%BD%93%E5%89%8D%E9%A1%B9%E7%9B%AE](https://github.com/BB-Software-Corporation/BB-Software-Corporation/tree/main#%E5%90%88%E4%BD%9C)
 
 ---
 以下是我们制作出来的软件：
