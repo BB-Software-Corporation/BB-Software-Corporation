@@ -58,4 +58,4 @@ By joining our organization, you can gain access to our latest projects and part
 
 # Other
 
-Interested in following our development journey? Check out our [YouTube Channel](https://www.yfoutube.com/channel/UCTvCdFtp9lBwZCCw6qVimiw) for more updates and development content.
+Interested in following our development journey? Check out our [YouTube Channel]([https://www.yfoutube.com/channel/UCTvCdFtp9lBwZCCw6qVimiw](https://www.youtube.com/channel/UCLYQTIFZHJCXglgor475yYg)) for more updates and development content.
