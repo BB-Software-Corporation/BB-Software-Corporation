@@ -1,47 +1,61 @@
-# 各位大家们欢迎光临**小宝宝软件公司**
+# Welcome to **BB Software Corporation**!
 
-## [跳转至组织最新动态](https://github.com/BB-Software-Corporation/BB-Software-Corporation/tree/main#%E5%90%88%E4%BD%9C)
+## [Jump to the Latest Organization Updates](https://github.com/BB-Software-Corporation/BB-Software-Corporation/tree/main#cooperation)
 
 ---
-以下是我们制作出来的软件：
+
+Below is a list of software applications developed by our organization.
+
 ### ZNSO Notepad Pro
-> 应用描述：ZNSO Notepad Pro，简称ZNP Pro。这是一个专业的笔记。
-> 
-> 官方地址：[ZNP Pro 下载官网](https://github.com/BB-Software-Corporation/ZNSO-Notepad-Pro)
->
-> 历史版本：[ZNP Pro 历史版本](https://github.com/BB-Software-Corporation/ZNSO-Notepad-Pro/releases/)
->
-> 最新版本：[ZNP Pro 最新版本](https://github.com/BB-Software-Corporation/ZNSO-Notepad-Pro/releases/latest)
->
-### ZNSO TradeTrainer （不受支持，转移到了[TraderTRner](https://github.com/BB-Software-Corporation/TraderTRner)）
-> 应用描述：ZNSO TradeTrainer，简称ZTT。这是一个模拟交易的应用，简单模拟创建本地账号，通过这样来区分交易
->
-> 官方地址：[ZTT 下载官网](https://github.com/BB-Software-Corporation/ZNSOTradeTrainer)
->
-> 历史版本：[ZTT 历史版本](https://github.com/BB-Software-Corporation/ZNSOTradeTrainer/releases)
->
-> 最新版本：[ZTT 最新版本](https://github.com/BB-Software-Corporation/ZNSOTradeTrainer/releases/latest)
->
 
-### Trader TR ner
-> 应用描述：Trader TR ner，ZTT 代替品，功能UI 大改变，更加真实，未来可能还支持K线观察
+> **Description:** ZNSO Notepad Pro, also known as ZNP Pro, is a professional note-taking application.
 >
-> 官网地址：[TraderTRner 下载官网](https://github.com/BB-Software-Corporation/TraderTRner)
+> **Official Repository:** [ZNP Pro](https://github.com/BB-Software-Corporation/ZNSO-Notepad-Pro)
 >
-> 历史版本：[TraderTRner 历史版本](https://github.com/BB-Software-Corporation/TraderTRner/releases)
+> **Previous Releases:** [ZNP Pro Release History](https://github.com/BB-Software-Corporation/ZNSO-Notepad-Pro/releases/)
 >
-> 最新版本：[TraderTRner 最新版本](https://github.com/BB-Software-Corporation/TraderTRner/releases/latest)
->
+> **Latest Version:** [Download the Latest Version](https://github.com/BB-Software-Corporation/ZNSO-Notepad-Pro/releases/latest)
 
-# 合作
-如果想要一起开发的话，请联系：bbcorp-c-2025-@outlook.com，或者加入[GitHub 组织](https://github.com/BB-Development-Organization/)来协助开发
-注意，我们统一时间是北京时间。
-# 加入组织后可获得最新当前项目！
-* 加入组织后可以查看并编辑最新项目
-* 当前最新项目：**[BBEngine](https://github.com/BB-Development-Organization/BBEngine)，一个基于Raylib_cs 的 2D 游戏引擎**
-* 当前状态
-* > 正在开发关卡渲染
+### ZNSO TradeTrainer (Discontinued)
 
-## 其他
-r如果对我们的开发过程感兴趣的话请看：
-* 我们的[YouTube 频道](https://www.youtube.com/channel/UCTvCdFtp9lBwZCCw6qVimiw)
+> **Note:** This project is no longer supported. Development has been moved to [TraderTRner](https://github.com/BB-Software-Corporation/TraderTRner).
+>
+> **Description:** ZNSO TradeTrainer, also known as ZTT, is a trading simulation application. It allows users to create local accounts to simulate and distinguish between different trading accounts.
+>
+> **Official Repository:** [ZTT](https://github.com/BB-Software-Corporation/ZNSOTradeTrainer)
+>
+> **Previous Releases:** [ZTT Release History](https://github.com/BB-Software-Corporation/ZNSOTradeTrainer/releases)
+>
+> **Latest Version:** [Download the Latest Version](https://github.com/BB-Software-Corporation/ZNSOTradeTrainer/releases/latest)
+
+### TraderTRner
+
+> **Description:** TraderTRner is the successor to ZNSO TradeTrainer, featuring a completely redesigned user interface and a more realistic trading simulation experience. Future plans may include support for candlestick (K-line) chart visualization.
+>
+> **Official Repository:** [TraderTRner](https://github.com/BB-Software-Corporation/TraderTRner)
+>
+> **Previous Releases:** [TraderTRner Release History](https://github.com/BB-Software-Corporation/TraderTRner/releases)
+>
+> **Latest Version:** [Download the Latest Version](https://github.com/BB-Software-Corporation/TraderTRner/releases/latest)
+
+# Cooperation
+
+If you are interested in collaborating with us or joining our development team, feel free to contact us:
+
+- **Email:** bbcorp-c-2025-@outlook.com
+- **GitHub Organization:** [BB Development Organization](https://github.com/BB-Development-Organization/)
+
+**Please note:** Our official time zone is China Standard Time (UTC+8).
+
+## Join Our Organization
+
+By joining our organization, you can gain access to our latest projects and participate in their development.
+
+- Members can view and contribute to our latest projects.
+- **Current Main Project:** [BBEngine](https://github.com/BB-Development-Organization/BBEngine) — A 2D game engine built on top of Raylib_cs.
+- **Current Development Status:**
+  - Currently working on level rendering.
+
+# Other
+
+Interested in following our development journey? Check out our [YouTube Channel](https://www.yfoutube.com/channel/UCTvCdFtp9lBwZCCw6qVimiw) for more updates and development content.
